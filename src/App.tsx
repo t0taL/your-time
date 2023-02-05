@@ -1,9 +1,12 @@
 import './App.scss'
+import TaskList from "./components/task-list/TaskList";
+import Header from "./components/header/Header";
 
 function App() {
   return (
     <div>
-      there will me meat
+      <Header/>
+      <TaskList/>
     </div>
   )
 }
