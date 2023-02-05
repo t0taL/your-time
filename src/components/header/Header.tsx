@@ -1,5 +1,5 @@
 import React from 'react';
-import Timer from "./timer/Timer";
+import Timer from "../task-list/task-card/timer/Timer";
 
 const Header = () => {
   return (
